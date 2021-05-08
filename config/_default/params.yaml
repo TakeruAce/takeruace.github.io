@@ -13,47 +13,31 @@ font_size: L
 # SEO
 
 site_type: Person
-local_business_type: ''
-org_name: ''
+local_business_type: 'Haptics'
+org_name: 'The University of Tokyo'
 description: ''
-twitter: ''
+twitter: 'AceZeami'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: hashimoto[at]cyber.t.u-tokyo.ac.jp
+phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 83C2 Eng-Building2, 8-3-1, Hongo
+  city: Bunkyo-ku
+  region: Tokyo
+  postcode: '1138656'
+  country: Japan
+  country_code: ja
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: 
+  longitude: 
+directions: 
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'https://twitter.com/AceZeami'
 
 # Site header
 
@@ -77,7 +61,7 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
