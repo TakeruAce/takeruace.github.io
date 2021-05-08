@@ -22,29 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Prototype Engineer
+    company: Mplusplus Co.,Ltd.
+    company_url: 'http://www.mplpl.com/'
+    company_logo: 
+    location: Tokyo
+    date_start: '2019-03-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Prototyping of glowing props for live performance
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: xR Engineer Intern
+    company: GREE, Inc
+    company_url: 'http://gree.jp/'
+    company_logo: 
+    location: Tokyo
+    date_start: '2018-10-01'
+    date_end: '2018-12-21'
+    description: Developing the VR app that lets you experience moon skiing and the AR app to learn how to check server with [zSpace](https://jp.zspace.com/).
+  
+  - title: Android Engineer
+    company: Sony Music Communications Inc.
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: 
+    location: Tokyo
+    date_start: '2018-02-01'
+    date_end: '2018-10-31'
+    description: Developing [**Butaimeguri**](https://www.butaimeguri.com/), the AR app that enables you to take photos with anime characters where they have been set.
+  
 design:
-  columns: '2'
+  columns: '1'
 ---

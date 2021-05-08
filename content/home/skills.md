@@ -16,18 +16,27 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
+- description: Fusion360 Blender
+  icon: pencil-ruler
+  icon_pack: fas
+  name: 3D Modeling
+- description: Unity
+  icon: vr-cardboard
+  icon_pack: fas
+  name: VR applications
+- description: easyEDA
+  icon: microchip
+  icon_pack: fas
+  name: Circuit design
+- description: R python
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: ROS Gazebo
+  icon: robot
   icon_pack: fas
-  name: Photography
+  name: Robot simulation
+  
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
