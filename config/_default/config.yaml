@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: TKR Portfolio # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2018} Takeru HASHIMOTO' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

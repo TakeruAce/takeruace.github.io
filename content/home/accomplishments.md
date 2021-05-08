@@ -24,30 +24,41 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
+- certificate_url: 
+  date_end: "2021-03-31"
+  date_start: "2020-04-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  organization: The University of Tokyo
+  organization_url: 
+  title: Shcolarship for AI talent from Toyota and Dwango 
+  url: "https://www.u-tokyo.ac.jp/ja/students/welfare/h02_19.html"
+- certificate_url: 
+  date_end: "2023-03-31"
+  date_start: "2021-04-01"
+  description: 
+  organization: Japan Society for the Promotion of Science
+  organization_url: https://www.jsps.go.jp/
+  title: Research Fellowship for Young Scientists (DC2)
+  url: https://www.jsps.go.jp/english/e-pd/index.html
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2020-03-01"
+  description:
+  organization: The Virtual Reality Socienty of Japan
+  organization_url: https://vrsj.org/
+  title: Young Researcher's Award
+  url: https://vrsj.org/awards/best_presentions/
+
+- certificate_url: 
+  date_end: ""
+  date_start: "2019-09-01"
+  description:
+  organization: ACM SIGCHI
+  organization_url: https://sigchi.org/
+  title: Honorable Mention Award
+  url: https://chi2019.acm.org/2019/03/15/chi-2019-best-papers-honourable-mentions/
+
+
 
 design:
   columns: '1' 

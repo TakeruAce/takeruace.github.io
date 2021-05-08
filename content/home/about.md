@@ -27,8 +27,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  background:
-    image: background_about.png
-    image_darken: 0.4
-    text_color_light: true
+#   background:
+#     image: background_about.png
+#     image_darken: 0.4
+#     text_color_light: true
 ---
