@@ -1,5 +1,5 @@
 ---
-title: Magic Talbe
+title: Magic Table
 summary: A mysterious table that makes you feels various shapes.
 tags:
 - research

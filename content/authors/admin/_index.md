@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Takeru HASHIMOTO
+title: Takeru Hashimoto
 # Is this the primary user of the site?
 superuser: true
 
@@ -61,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/CV_Takeru_HASHIMOTO.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,10 +72,10 @@ email: ""
 highlight_name: false
 ---
 
-Takeru HASHIMOTO （橋本 健） is currently a PhD student at the Cyber Interface Laboratory in The University of Tokyo in Japan. He is studying computer science, human computer interaction and robotics in the graduate school of The University of Tokyo. He received his master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2020 and 2018 respectively. 
+Takeru Hashimoto (Japan name: 橋本 健) is currently a PhD student at the Cyber Interface Laboratory in The University of Tokyo in Japan. He is studying computer science, human computer interaction and robotics in the graduate school of The University of Tokyo. He received his master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2020 and 2018 respectively. 
 His awards include the Young Researcher's Award from the virtual reality society of Japan and the Honorable Mention Award in SIGCHI.
 His current research area is Virtual / Augmented Reality of haptics and Human-Augmentation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/files/CV_Takeru_HASHIMOTO.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 <!-- <img src="assets/media/RealAvaterDanceAlpha.gif" width="200" style="float:left; position:absolute;bottom:190px;right:0px;"> -->
