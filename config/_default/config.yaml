@@ -5,7 +5,7 @@
 
 title: TKR Portfolio # Website name
 baseurl: '' # Website URL
-copyright: '© {2018} Takeru HASHIMOTO' # Footer text, e.g. '© {year} Me'
+copyright: '© 2018 Takeru HASHIMOTO' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
