@@ -78,4 +78,4 @@ His current research area is Virtual / Augmented Reality of haptics and Human-Au
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-<img src="media/RealAvaterDanceAlpha.gif" width="200" style="float:left; position:absolute;bottom:190px;right:0px;">
+<!-- <img src="assets/media/RealAvaterDanceAlpha.gif" width="200" style="float:left; position:absolute;bottom:190px;right:0px;"> -->

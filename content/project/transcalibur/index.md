@@ -1,6 +1,6 @@
 ---
 title: Transcalibur
-summary: An example of using the in-built project page.
+summary: A dynamic deformable interface that reproduces the haptic feeling of various shapes grasped in VR.
 tags:
 - research
 date: "2018-08-27T00:00:00Z"

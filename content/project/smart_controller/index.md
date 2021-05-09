@@ -1,6 +1,6 @@
 ---
 title: Smart Controller
-summary: An example of using the in-built project page.
+summary: Smart home controller that can be operated from messenger application.
 tags:
 - IoT
 - other
