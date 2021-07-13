@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: TKR Portfolio # Website name
-baseurl: 'tkrtkr.com' # Website URL
+baseurl: '' # Website URL
 copyright: '© 2018 Takeru HASHIMOTO' # Footer text, e.g. '© {year} Me'
 
 ############################
