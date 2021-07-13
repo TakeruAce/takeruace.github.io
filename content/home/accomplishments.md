@@ -33,6 +33,14 @@ item:
   title: Shcolarship for AI talent from Toyota and Dwango 
   url: "https://www.u-tokyo.ac.jp/ja/students/welfare/h02_19.html"
 - certificate_url: 
+  date_end: "2022-03-31"
+  date_start: "2021-04-01"
+  description: ""
+  organization: The University of Tokyo
+  organization_url: 
+  title: Shcolarship for AI talent from Toyota and Dwango 
+  url: "https://www.u-tokyo.ac.jp/ja/students/welfare/h02_19.html"
+- certificate_url: 
   date_end: "2023-03-31"
   date_start: "2021-04-01"
   description: 

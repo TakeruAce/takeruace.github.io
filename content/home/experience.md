@@ -40,7 +40,7 @@ experience:
     date_end: '2018-12-21'
     description: Developing the VR app that lets you experience moon skiing and the AR app to learn how to check server with [zSpace](https://jp.zspace.com/).
   
-  - title: Android Engineer
+  - title: Smartphone Application Developers
     company: Sony Music Communications Inc.
     company_url: ''
     company_logo: 
