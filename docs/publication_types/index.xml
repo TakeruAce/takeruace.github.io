@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | TKR Portfolio</title>
+    <link>/publication_types/</link>
+      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Wed, 10 Mar 2021 15:44:23 +0900</lastBuildDate>
+    <image>
+      <url>/media/icon_hu401f33d23a83963bafbc9b3f31b4fcee_2772_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

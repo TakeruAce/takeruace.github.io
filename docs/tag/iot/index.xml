@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT | TKR Portfolio</title>
+    <link>/tag/iot/</link>
+      <atom:link href="/tag/iot/index.xml" rel="self" type="application/rss+xml" />
+    <description>IoT</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Wed, 28 Mar 2018 12:35:52 +0900</lastBuildDate>
+    <image>
+      <url>/media/icon_hu401f33d23a83963bafbc9b3f31b4fcee_2772_512x512_fill_lanczos_center_2.png</url>
+      <title>IoT</title>
+      <link>/tag/iot/</link>
+    </image>
+    
+    <item>
+      <title>Smart Controller</title>
+      <link>/project/smart_controller/</link>
+      <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
+      <guid>/project/smart_controller/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;A system that allows you to control your home appliances from anywhere with &lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt; (famous messenger app in japan).&lt;/p&gt;
+&lt;h1 id=&#34;system&#34;&gt;System&lt;/h1&gt;
+&lt;p&gt;See the following two posts for more information (Japanese).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/6099d3ace9ec3e26d571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;RaspberryPiで自宅のシーリングライトに目覚まし機能をつけてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/41eb122dcb0feda0eae7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;Bottle.pyでRaspberry PiをWebサーバにしてLINEと連携させてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;operate-home-appliances-from-a-raspberry-pi&#34;&gt;Operate home appliances from a Raspberry Pi&lt;/h2&gt;
+&lt;p&gt;I made RaspberryPi memorize the signal of the remote control of my home appliances by using the infrared receiver.&lt;/p&gt;
+&lt;p&gt;Using the GPIO of RaspberryPi, we can operate the infrared LED and send the learned signal to control the home appliances.
+&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/ee003708-e39b-3bf7-df78-3144582400a8.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;line-bot&#34;&gt;LINE Bot&lt;/h2&gt;
+&lt;p&gt;Using LINE messaging API, we created a bot that replies to user&amp;rsquo;s messages.&lt;/p&gt;
+&lt;p&gt;You can operate the Raspberry Pi through this Bot.&lt;/p&gt;
+&lt;h2 id=&#34;control-the-raspberry-pi-from-line&#34;&gt;Control the Raspberry Pi from LINE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Building a web server on RaspberryPi using Bottle, a Python framework for setting up a web server.
+&lt;ul&gt;
+&lt;li&gt;You can access the web server from outside your home LAN using a service called ngrok.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create and implement a web application on the Ranbberry Pi that sends signals from the Raspberry Pi to home appliances in response to http requests
+&lt;ul&gt;
+&lt;li&gt;Handle http requests sent by webhook from LINE messaging API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create a bot that responds to a user&amp;rsquo;s message using LINE messaging API.
+&lt;ul&gt;
+&lt;li&gt;You can control your Raspberry Pi through this Bot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/6500d2ae-021f-10ff-bea6-a262de4dd930.gif&#34; width=&#34;200&#34;&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

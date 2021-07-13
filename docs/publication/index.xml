@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | TKR Portfolio</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Wed, 10 Mar 2021 15:44:23 +0900</lastBuildDate>
+    <image>
+      <url>/media/icon_hu401f33d23a83963bafbc9b3f31b4fcee_2772_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia</title>
+      <link>/publication/unident_ieeevr/</link>
+      <pubDate>Wed, 10 Mar 2021 15:44:23 +0900</pubDate>
+      <guid>/publication/unident_ieeevr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多様な形状知覚を提示するトルクフィードバックVRコントローラ</title>
+      <link>/publication/pseudoshape_vrsj/</link>
+      <pubDate>Tue, 10 Sep 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/pseudoshape_vrsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
+      <link>/publication/shapesense_siggraph/</link>
+      <pubDate>Sat, 10 Aug 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/shapesense_siggraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects.</title>
+      <link>/publication/transcalibur_ea/</link>
+      <pubDate>Fri, 10 May 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/transcalibur_ea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: A weight shifting virtual reality controller for 2d shape rendering based on computational perception model</title>
+      <link>/publication/transcalibur_chi/</link>
+      <pubDate>Fri, 10 May 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/transcalibur_chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>タッチスクリーンでの擬似触力覚提示による注意誘導</title>
+      <link>/publication/touchscreen_vrsj/</link>
+      <pubDate>Mon, 10 Sep 2018 15:44:23 +0900</pubDate>
+      <guid>/publication/touchscreen_vrsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: weight moving VR controller for dynamic rendering of 2D shape using haptic shape illusion</title>
+      <link>/publication/transcalibur_siggraph/</link>
+      <pubDate>Fri, 10 Aug 2018 15:44:23 +0900</pubDate>
+      <guid>/publication/transcalibur_siggraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Pseudo-Haptic Feedback on Touchscreens on Visual Memory During Image Browsing</title>
+      <link>/publication/eurohaptics/</link>
+      <pubDate>Thu, 21 Jun 2018 15:44:23 +0900</pubDate>
+      <guid>/publication/eurohaptics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magic table: deformable props using visuo haptic redirection</title>
+      <link>/publication/magictable/</link>
+      <pubDate>Sun, 10 Dec 2017 15:44:23 +0900</pubDate>
+      <guid>/publication/magictable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

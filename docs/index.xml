@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TKR Portfolio</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>TKR Portfolio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu401f33d23a83963bafbc9b3f31b4fcee_2772_512x512_fill_lanczos_center_2.png</url>
+      <title>TKR Portfolio</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unident</title>
+      <link>/project/unident/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/project/unident/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Unident is a handheld proxy capable of providing impact sensations by changing its rotational inertia at a high speed. Unident allows providing impact sensations at a high frequency with low latency and power consumption. In the first experiment, we demonstrated that Unident can physically provide an impact sensation applied to a handheld object by analyzing the pressure on the user’s palm. The second experiment showed that Unident can provide an impact sensation with various magnitudes depending on the amount of rotational inertia to be changed. In the user study, Unident could provide more realistic impact sensations than vibrotactile feedback.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia</title>
+      <link>/publication/unident_ieeevr/</link>
+      <pubDate>Wed, 10 Mar 2021 15:44:23 +0900</pubDate>
+      <guid>/publication/unident_ieeevr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>多様な形状知覚を提示するトルクフィードバックVRコントローラ</title>
+      <link>/publication/pseudoshape_vrsj/</link>
+      <pubDate>Tue, 10 Sep 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/pseudoshape_vrsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ShapeSense</title>
+      <link>/project/shapesense/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/shapesense/</guid>
+      <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;A controller that reproduces the moment of inertia and air resistance of a virtual grasped object&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/RYP4salOgJ8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ShapeSense: a 2D shape rendering VR device with moving surfaces that controls mass properties and air resistance</title>
+      <link>/publication/shapesense_siggraph/</link>
+      <pubDate>Sat, 10 Aug 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/shapesense_siggraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Transcalibur: A VR Controller that Presents Various Shapes of Handheld Objects.</title>
+      <link>/publication/transcalibur_ea/</link>
+      <pubDate>Fri, 10 May 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/transcalibur_ea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: A weight shifting virtual reality controller for 2d shape rendering based on computational perception model</title>
+      <link>/publication/transcalibur_chi/</link>
+      <pubDate>Fri, 10 May 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/transcalibur_chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+Three
+&lt;/span&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>/landing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/landing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dress of Ghost</title>
+      <link>/project/dress_of_ghost/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/dress_of_ghost/</guid>
+      <description>&lt;h1 id=&#34;caption&#34;&gt;Caption&lt;/h1&gt;
+&lt;p&gt;Do you feel the &amp;ldquo;Ghost&amp;rdquo; in these inorganic particles?&lt;/p&gt;
+&lt;p&gt;Since ancient times, Japanese people have believed that all things have ghost in them.
+Listen to the voice of things and be grateful for their benefits.
+These beliefs were born because people and things have spun a close relationship.
+However, with the development of technology, people became arrogant, and the &amp;ldquo;ghost&amp;rdquo; in things was forgotten.
+Especially now that intelligence has been given to all things, human beings are becoming a one-sided subjective relationship with the side that commands and the side that commands things.
+Such a apathetic relationship even makes things feel bothersome.
+When you listen to the voices of things and think about the feelings of things, it&amp;rsquo;s the first time that things have life.&lt;/p&gt;
+&lt;p&gt;This work breaks down the relationship between people and things and depicts a world where &amp;ldquo;ghost&amp;rdquo; dwells in things.
+Particles that behave in an inorganic manner.
+If you work diligently and face it, &amp;ldquo;ghost&amp;rdquo; will come to reside in the particles and speak to your heart.&lt;/p&gt;
+&lt;p&gt;Dress of Ghost reestablishes a relationship between you and things.&lt;/p&gt;
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Produced by Takeru Hashimoto and Masato Nomiyama(Takram)&lt;/p&gt;
+&lt;p&gt;Showcase : 2018 Dest-logy REBUILD, iiiexhibition, The University of Tokyo&lt;/p&gt;
+&lt;h1 id=&#34;movie&#34;&gt;Movie&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/s8Q2XVtoIwU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;tech&#34;&gt;Tech&lt;/h1&gt;
+&lt;p&gt;Sand that gives you goosebumps or pulses when you put your hand on it.&lt;/p&gt;
+&lt;p&gt;We use &lt;a href=&#34;http://www.satomunehiko.com/ja/works/touche/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Touché&lt;/a&gt; for human hand contact and proximity detection.
+We have extended Touché to enable us to obtain the contact and proximity of a human hand and sand by arranging multiple objects.&lt;/p&gt;
+&lt;p&gt;A matrix of electromagnets and analog control of each electromagnet made it possible to express the goosebumps and pulsations of the sand.
+In this work, 60 hand-wound electromagnets were used.&lt;/p&gt;
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.u-tokyo.ac.jp/ja/about/public-relations/tansei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;Tansei: UTokyo&amp;rsquo;s Official Magazine&lt;/font&gt;&lt;/a&gt; vol.38 special episode &amp;ldquo;Art of the University of Tokyo&amp;rdquo; 2019.03&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Voltex, that is party.</title>
+      <link>/project/voltex/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/project/voltex/</guid>
+      <description>&lt;h1 id=&#34;caption&#34;&gt;Caption&lt;/h1&gt;
+&lt;p&gt;What is the last &amp;ldquo;vortex&amp;rdquo; we saw?&lt;/p&gt;
+&lt;p&gt;A tornado? Eddy tides? A vortex of people? A whirlwind of excitement? Galaxies?&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;vortex&amp;rdquo; doesn&amp;rsquo;t seem to be there.&lt;/p&gt;
+&lt;p&gt;What is a &amp;ldquo;vortex&amp;rdquo;?&lt;/p&gt;
+&lt;p&gt;Things? Shape? Flow? Movement? Phenomenon?&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re by the vortex.&lt;/p&gt;
+&lt;p&gt;You&amp;rsquo;re creating a vortex.&lt;/p&gt;
+&lt;p&gt;You may be part of the vortex.&lt;/p&gt;
+&lt;p&gt;I wonder if the Vortex is aware of it.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;individual&amp;rdquo; that makes him who he is.&lt;/p&gt;
+&lt;p&gt;Is the individual aware of it?&lt;/p&gt;
+&lt;p&gt;The vortex he&amp;rsquo;s created.&lt;/p&gt;
+&lt;p&gt;They&amp;rsquo;re not all in one piece.&lt;/p&gt;
+&lt;p&gt;They all create one vortex.&lt;/p&gt;
+&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Produced by &lt;a href=&#34;https://sunagimon.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Takuto Uwaka&lt;/a&gt; and Takeru Hashimoto&lt;/p&gt;
+&lt;p&gt;展示：東京大学制作展2018 Dest-logy REBUILD&lt;/p&gt;
+&lt;h1 id=&#34;movie&#34;&gt;Movie&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/yKECm-Tng5M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;tech&#34;&gt;Tech&lt;/h1&gt;
+&lt;p&gt;A water tank in which a whirlpool is generated when a whirlpool is drawn by hand.&lt;/p&gt;
+&lt;p&gt;Using Leap Motion, they recognize the motion of drawing a vortex with their hands.&lt;/p&gt;
+&lt;p&gt;The mechanism of vortex generation and dissipation is realized by controlling two water flow generation pumps installed under the water tank and a hole at the bottom.&lt;/p&gt;
+&lt;h1 id=&#34;comment&#34;&gt;Comment&lt;/h1&gt;
+&lt;p&gt;It swirls in the air like a DJ scratching.
+Create your own whirlpool and involve yourself in it.&lt;/p&gt;
+&lt;p&gt;You can create a vortex in the water without actually touching it, which is a strange but natural feeling.&lt;/p&gt;
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.u-tokyo.ac.jp/ja/about/public-relations/tansei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学広報誌 淡青&lt;/a&gt; vol.38 特集「東大のアート、アートの東大。」 2019.03&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>タッチスクリーンでの擬似触力覚提示による注意誘導</title>
+      <link>/publication/touchscreen_vrsj/</link>
+      <pubDate>Mon, 10 Sep 2018 15:44:23 +0900</pubDate>
+      <guid>/publication/touchscreen_vrsj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur</title>
+      <link>/project/transcalibur/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/project/transcalibur/</guid>
+      <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
+&lt;p&gt;The shape of the grasping object as perceived by humans is affected by the moment of inertia of the object and its appearance. In this project, we developed a handheld VR controller &amp;ldquo;Transcalibur&amp;rdquo; that can reproduce the sensation of holding various virtual objects by moving the positions of the two weights.&lt;/p&gt;
+&lt;p&gt;The relationship between the position of the weight and the perceived shape of the device is formulated using a data-driven method to optimize the position of the weight of the device for the appearance of a given virtual object.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/OiSbn6D5kwA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
+&lt;p&gt;By moving the two weighted modules in polar coordinates in a two-dimensional plane, Transcalibur changes its own moment of inertia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;/img/transform.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h1 id=&#34;computational-perception-model&#34;&gt;Computational Perception Model&lt;/h1&gt;
+&lt;p&gt;In order to generate real sensations with various objects in the virtual environment, it is necessary to know the relationship between the &amp;ldquo;position of the weight&amp;rdquo; and the &amp;ldquo;shape that humans actually perceive&amp;rdquo;.
+However, this relationship has not been established as a theory.&lt;/p&gt;
+&lt;p&gt;Therefore, we collected a large amount of paired data of &amp;ldquo;actual human shape perception&amp;rdquo; for Transcalibur&amp;rsquo;s &amp;ldquo;weight position&amp;rdquo; and formulated a mathematical model of human shape perception by performing multiple regression analysis.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;/img/approach.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;award&#34;&gt;Award&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Honorable Mention&lt;/strong&gt; at CHI2019&lt;/p&gt;
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://cgworld.jp/feature/201810-thermal-03.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#34;blue&#34;&gt;『ブルーサーマル』的VR超初心者入門漫画 その3＞＞「で、結局のところVRの正体ってなんですか？」&lt;/font&gt;&lt;/a&gt; CGWORLD.jp 2018.10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: weight moving VR controller for dynamic rendering of 2D shape using haptic shape illusion</title>
+      <link>/publication/transcalibur_siggraph/</link>
+      <pubDate>Fri, 10 Aug 2018 15:44:23 +0900</pubDate>
+      <guid>/publication/transcalibur_siggraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Pseudo-Haptic Feedback on Touchscreens on Visual Memory During Image Browsing</title>
+      <link>/publication/eurohaptics/</link>
+      <pubDate>Thu, 21 Jun 2018 15:44:23 +0900</pubDate>
+      <guid>/publication/eurohaptics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware Reading</title>
+      <link>/project/touchscreen/</link>
+      <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
+      <guid>/project/touchscreen/</guid>
+      <description>&lt;h1 id=&#34;system&#34;&gt;System&lt;/h1&gt;
+&lt;p&gt;With regard to swipe operations in touchscreen operations, the user&amp;rsquo;s attention is directed to a specific item on the screen by reducing the movement of the screen in response to the movement of the finger.&lt;/p&gt;
+&lt;p&gt;This operation in a list view with similar content shows that the content with the operation is better remembered than the content without the operation.&lt;/p&gt;
+&lt;p&gt;Recently, we have seen a method to put advertisements in the list view in news apps, manga apps, and so on, and we can think of an application in the field of such advertisements, and an application to memorize important parts of textbooks and reference books efficiently.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jstage.jst.go.jp/article/tvrsj/23/3/23_139/_article/-char/ja&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;For more detail (Japanese)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Smart Controller</title>
+      <link>/project/smart_controller/</link>
+      <pubDate>Wed, 28 Mar 2018 12:35:52 +0900</pubDate>
+      <guid>/project/smart_controller/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;A system that allows you to control your home appliances from anywhere with &lt;a href=&#34;https://line.me/ja/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color = &#34;green&#34;&gt;LINE&lt;/font&gt;&lt;/a&gt; (famous messenger app in japan).&lt;/p&gt;
+&lt;h1 id=&#34;system&#34;&gt;System&lt;/h1&gt;
+&lt;p&gt;See the following two posts for more information (Japanese).&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/6099d3ace9ec3e26d571&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;RaspberryPiで自宅のシーリングライトに目覚まし機能をつけてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://qiita.com/AceZeami/items/41eb122dcb0feda0eae7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#39;blue&#39;&gt;Bottle.pyでRaspberry PiをWebサーバにしてLINEと連携させてみた&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;operate-home-appliances-from-a-raspberry-pi&#34;&gt;Operate home appliances from a Raspberry Pi&lt;/h2&gt;
+&lt;p&gt;I made RaspberryPi memorize the signal of the remote control of my home appliances by using the infrared receiver.&lt;/p&gt;
+&lt;p&gt;Using the GPIO of RaspberryPi, we can operate the infrared LED and send the learned signal to control the home appliances.
+&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/ee003708-e39b-3bf7-df78-3144582400a8.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;line-bot&#34;&gt;LINE Bot&lt;/h2&gt;
+&lt;p&gt;Using LINE messaging API, we created a bot that replies to user&amp;rsquo;s messages.&lt;/p&gt;
+&lt;p&gt;You can operate the Raspberry Pi through this Bot.&lt;/p&gt;
+&lt;h2 id=&#34;control-the-raspberry-pi-from-line&#34;&gt;Control the Raspberry Pi from LINE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Building a web server on RaspberryPi using Bottle, a Python framework for setting up a web server.
+&lt;ul&gt;
+&lt;li&gt;You can access the web server from outside your home LAN using a service called ngrok.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create and implement a web application on the Ranbberry Pi that sends signals from the Raspberry Pi to home appliances in response to http requests
+&lt;ul&gt;
+&lt;li&gt;Handle http requests sent by webhook from LINE messaging API.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create a bot that responds to a user&amp;rsquo;s message using LINE messaging API.
+&lt;ul&gt;
+&lt;li&gt;You can control your Raspberry Pi through this Bot.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;img src=&#34;https://qiita-image-store.s3.amazonaws.com/0/340630/6500d2ae-021f-10ff-bea6-a262de4dd930.gif&#34; width=&#34;200&#34;&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magic table: deformable props using visuo haptic redirection</title>
+      <link>/publication/magictable/</link>
+      <pubDate>Sun, 10 Dec 2017 15:44:23 +0900</pubDate>
+      <guid>/publication/magictable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magic Table</title>
+      <link>/project/magic_table/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/project/magic_table/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rubik&#39;s Cube Solver</title>
+      <link>/project/rubikcube/</link>
+      <pubDate>Tue, 27 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/project/rubikcube/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
+&lt;p&gt;Created in an project (class) of the Department of Mechanical and Information Engineering, Faculty of Engineering.&lt;/p&gt;
+&lt;p&gt;It uses two webcams to recognize the initial state of a Rubik&amp;rsquo;s cube and derives a solution using an existing solver. The six arms are rotated according to the method to complete the Rubik&amp;rsquo;s Cube.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

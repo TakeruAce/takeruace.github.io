@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | TKR Portfolio</title>
+    <link>/publication-type/1/</link>
+      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Wed, 10 Mar 2021 15:44:23 +0900</lastBuildDate>
+    <image>
+      <url>/media/icon_hu401f33d23a83963bafbc9b3f31b4fcee_2772_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Unident: Providing Impact Sensations on Handheld Objects via High-Speed Change of the Rotational Inertia</title>
+      <link>/publication/unident_ieeevr/</link>
+      <pubDate>Wed, 10 Mar 2021 15:44:23 +0900</pubDate>
+      <guid>/publication/unident_ieeevr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcalibur: A weight shifting virtual reality controller for 2d shape rendering based on computational perception model</title>
+      <link>/publication/transcalibur_chi/</link>
+      <pubDate>Fri, 10 May 2019 15:44:23 +0900</pubDate>
+      <guid>/publication/transcalibur_chi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Pseudo-Haptic Feedback on Touchscreens on Visual Memory During Image Browsing</title>
+      <link>/publication/eurohaptics/</link>
+      <pubDate>Thu, 21 Jun 2018 15:44:23 +0900</pubDate>
+      <guid>/publication/eurohaptics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
