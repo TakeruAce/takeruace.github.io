@@ -75,3 +75,9 @@ related:
     - name: categories
       weight: 70
 publishDir : "docs"
+
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

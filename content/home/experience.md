@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Assistant
+    company: Sony Computer Science Laboratories
+    company_url: 'https://www.sonycsl.co.jp/'
+    company_logo: 
+    location: Tokyo
+    date_start: '2022-01-17'
+    date_end: ''
+    description: Research about human machine integration at [Superception Lab ](https://www.sonycsl.co.jp/tokyo/3918/)
+
+
   - title: Prototype Engineer
     company: Mplusplus Co.,Ltd.
     company_url: 'http://www.mplpl.com/'
     company_logo: 
     location: Tokyo
     date_start: '2019-03-01'
-    date_end: ''
+    date_end: '2021-05-01'
     description: Prototyping of glowing props for live performance
         
   - title: xR Engineer Intern
