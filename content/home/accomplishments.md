@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: "2025-03-31"
+  date_start: "2022-10-01"
+  description: ""
+  organization: Japan Science and Technology Agency
+  organization_url: 
+  title: ACT-X Hardware for Resilience
+  url: "https://www.jst.go.jp/kisoken/act-x/research_area/ongoing/bunya2021-1.html"
+- certificate_url: 
   date_end: "2021-03-31"
   date_start: "2020-04-01"
   description: ""
