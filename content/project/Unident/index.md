@@ -21,3 +21,6 @@ image:
 
 # About
 Unident is a handheld proxy capable of providing impact sensations by changing its rotational inertia at a high speed. Unident allows providing impact sensations at a high frequency with low latency and power consumption. In the first experiment, we demonstrated that Unident can physically provide an impact sensation applied to a handheld object by analyzing the pressure on the user’s palm. The second experiment showed that Unident can provide an impact sensation with various magnitudes depending on the amount of rotational inertia to be changed. In the user study, Unident could provide more realistic impact sensations than vibrotactile feedback.
+
+# Video
+{{<youtube bNRKsab2y6c>}}
