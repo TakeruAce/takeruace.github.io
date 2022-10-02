@@ -29,8 +29,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-# Caption
-Do you feel the "Ghost" in these inorganic particles?
+# Concept
+Do you feel the "Ghosts" in these inorganic particles?
 
 Since ancient times, Japanese people have believed that all things have ghost in them.
 Listen to the voice of things and be grateful for their benefits.
