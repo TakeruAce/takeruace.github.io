@@ -3,7 +3,7 @@ title: Transcalibur
 summary: A dynamic deformable interface that reproduces the haptic feeling of various shapes grasped in VR.
 tags:
 - research
-date: "2018-08-27T00:00:00Z"
+date: "2019-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
