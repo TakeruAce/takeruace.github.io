@@ -9,7 +9,7 @@ role: Ph.D. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Cyber Interface Lab @ The University of Tokyo
+- name: Cyber Interface Lab @ UTokyo
   url: http://www.cyber.t.u-tokyo.ac.jp/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,7 +18,7 @@ bio: My research interests include haptics, somatics, robotics and virtual reali
 # Interests to show in About widget
 interests:
 - Haptic Display
-- Designable Body Schema
+- Body Schema
 - Computational Perception
 
 # Education to show in About widget
@@ -69,7 +69,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Takeru Hashimoto (japanese name: 橋本 健) is currently a Ph.D student at the Cyber Interface Laboratory in The University of Tokyo in Japan. He is studying computer science, human computer interaction and robotics in the graduate school of The University of Tokyo. He received his master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2020 and 2018 respectively. 
@@ -77,5 +77,3 @@ His awards include the Young Researcher's Award from the virtual reality society
 His current research area is Virtual / Augmented Reality of haptics and Human-Augmentation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Takeru_HASHIMOTO.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-<!-- <img src="assets/media/RealAvaterDanceAlpha.gif" width="200" style="float:left; position:absolute;bottom:190px;right:0px;"> -->
