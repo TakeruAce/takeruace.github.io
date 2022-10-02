@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>research | TKR Portfolio</title>
+    <title>research | Takeru Hashimoto</title>
     <link>/tag/research/</link>
       <atom:link href="/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu401f33d23a83963bafbc9b3f31b4fcee_2772_512x512_fill_lanczos_center_3.png</url>
       <title>research</title>
       <link>/tag/research/</link>
     </image>
+    
+    <item>
+      <title>MetamorphX</title>
+      <link>/project/metamorphx/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/project/metamorphx/</guid>
+      <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
+&lt;p&gt;The shape of a grasped object that humans perceive haptically is affected by the object&amp;rsquo;s impedance.
+In this project, we have developed a handheld VR controller &amp;ldquo;MetamorphX&amp;rdquo; that can reproduce the impedance of various virtual objects.
+MetamorphX generates torque in response to human movement.
+We attempted to make the user perceive &lt;strong&gt;dynamically&lt;/strong&gt; generated torque as a &lt;strong&gt;static&lt;/strong&gt; property of the object.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1s3kmnNwxZ4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- # Hardware  --&gt;
+</description>
+    </item>
     
     <item>
       <title>Unident</title>
@@ -19,6 +39,12 @@
       <guid>/project/unident/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Unident is a handheld proxy capable of providing impact sensations by changing its rotational inertia at a high speed. Unident allows providing impact sensations at a high frequency with low latency and power consumption. In the first experiment, we demonstrated that Unident can physically provide an impact sensation applied to a handheld object by analyzing the pressure on the user’s palm. The second experiment showed that Unident can provide an impact sensation with various magnitudes depending on the amount of rotational inertia to be changed. In the user study, Unident could provide more realistic impact sensations than vibrotactile feedback.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bNRKsab2y6c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -41,7 +67,7 @@
     <item>
       <title>Transcalibur</title>
       <link>/project/transcalibur/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       <guid>/project/transcalibur/</guid>
       <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
 &lt;p&gt;The shape of the grasping object as perceived by humans is affected by the moment of inertia of the object and its appearance. In this project, we developed a handheld VR controller &amp;ldquo;Transcalibur&amp;rdquo; that can reproduce the sensation of holding various virtual objects by moving the positions of the two weights.&lt;/p&gt;

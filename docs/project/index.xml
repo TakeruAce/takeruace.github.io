@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | TKR Portfolio</title>
+    <title>Projects | Takeru Hashimoto</title>
     <link>/project/</link>
       <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2018 Takeru HASHIMOTO</copyright><lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hu401f33d23a83963bafbc9b3f31b4fcee_2772_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>/project/</link>
     </image>
+    
+    <item>
+      <title>MetamorphX</title>
+      <link>/project/metamorphx/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/project/metamorphx/</guid>
+      <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
+&lt;p&gt;The shape of a grasped object that humans perceive haptically is affected by the object&amp;rsquo;s impedance.
+In this project, we have developed a handheld VR controller &amp;ldquo;MetamorphX&amp;rdquo; that can reproduce the impedance of various virtual objects.
+MetamorphX generates torque in response to human movement.
+We attempted to make the user perceive &lt;strong&gt;dynamically&lt;/strong&gt; generated torque as a &lt;strong&gt;static&lt;/strong&gt; property of the object.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1s3kmnNwxZ4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;!-- # Hardware  --&gt;
+</description>
+    </item>
     
     <item>
       <title>Unident</title>
@@ -19,6 +39,12 @@
       <guid>/project/unident/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;About&lt;/h1&gt;
 &lt;p&gt;Unident is a handheld proxy capable of providing impact sensations by changing its rotational inertia at a high speed. Unident allows providing impact sensations at a high frequency with low latency and power consumption. In the first experiment, we demonstrated that Unident can physically provide an impact sensation applied to a handheld object by analyzing the pressure on the user’s palm. The second experiment showed that Unident can provide an impact sensation with various magnitudes depending on the amount of rotational inertia to be changed. In the user study, Unident could provide more realistic impact sensations than vibrotactile feedback.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/bNRKsab2y6c&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
@@ -39,12 +65,75 @@
     </item>
     
     <item>
+      <title>Transcalibur</title>
+      <link>/project/transcalibur/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      <guid>/project/transcalibur/</guid>
+      <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
+&lt;p&gt;The shape of the grasping object as perceived by humans is affected by the moment of inertia of the object and its appearance. In this project, we developed a handheld VR controller &amp;ldquo;Transcalibur&amp;rdquo; that can reproduce the sensation of holding various virtual objects by moving the positions of the two weights.&lt;/p&gt;
+&lt;p&gt;The relationship between the position of the weight and the perceived shape of the device is formulated using a data-driven method to optimize the position of the weight of the device for the appearance of a given virtual object.&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/OiSbn6D5kwA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
+&lt;p&gt;By moving the two weighted modules in polar coordinates in a two-dimensional plane, Transcalibur changes its own moment of inertia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;/img/transform.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h1 id=&#34;computational-perception-model&#34;&gt;Computational Perception Model&lt;/h1&gt;
+&lt;p&gt;In order to generate real sensations with various objects in the virtual environment, it is necessary to know the relationship between the &amp;ldquo;position of the weight&amp;rdquo; and the &amp;ldquo;shape that humans actually perceive&amp;rdquo;.
+However, this relationship has not been established as a theory.&lt;/p&gt;
+&lt;p&gt;Therefore, we collected a large amount of paired data of &amp;ldquo;actual human shape perception&amp;rdquo; for Transcalibur&amp;rsquo;s &amp;ldquo;weight position&amp;rdquo; and formulated a mathematical model of human shape perception by performing multiple regression analysis.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;/img/approach.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;award&#34;&gt;Award&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Honorable Mention&lt;/strong&gt; at CHI2019&lt;/p&gt;
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://cgworld.jp/feature/201810-thermal-03.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#34;blue&#34;&gt;『ブルーサーマル』的VR超初心者入門漫画 その3＞＞「で、結局のところVRの正体ってなんですか？」&lt;/font&gt;&lt;/a&gt; CGWORLD.jp 2018.10&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dress of Ghost</title>
       <link>/project/dress_of_ghost/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 +0000</pubDate>
       <guid>/project/dress_of_ghost/</guid>
-      <description>&lt;h1 id=&#34;caption&#34;&gt;Caption&lt;/h1&gt;
-&lt;p&gt;Do you feel the &amp;ldquo;Ghost&amp;rdquo; in these inorganic particles?&lt;/p&gt;
+      <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;Do you feel the &amp;ldquo;Ghosts&amp;rdquo; in these inorganic particles?&lt;/p&gt;
 &lt;p&gt;Since ancient times, Japanese people have believed that all things have ghost in them.
 Listen to the voice of things and be grateful for their benefits.
 These beliefs were born because people and things have spun a close relationship.
@@ -115,69 +204,6 @@ Create your own whirlpool and involve yourself in it.&lt;/p&gt;
 &lt;p&gt;You can create a vortex in the water without actually touching it, which is a strange but natural feeling.&lt;/p&gt;
 &lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.u-tokyo.ac.jp/ja/about/public-relations/tansei.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;東京大学広報誌 淡青&lt;/a&gt; vol.38 特集「東大のアート、アートの東大。」 2019.03&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transcalibur</title>
-      <link>/project/transcalibur/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>/project/transcalibur/</guid>
-      <description>&lt;h1 id=&#34;concepts&#34;&gt;Concepts&lt;/h1&gt;
-&lt;p&gt;The shape of the grasping object as perceived by humans is affected by the moment of inertia of the object and its appearance. In this project, we developed a handheld VR controller &amp;ldquo;Transcalibur&amp;rdquo; that can reproduce the sensation of holding various virtual objects by moving the positions of the two weights.&lt;/p&gt;
-&lt;p&gt;The relationship between the position of the weight and the perceived shape of the device is formulated using a data-driven method to optimize the position of the weight of the device for the appearance of a given virtual object.&lt;/p&gt;
-&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/OiSbn6D5kwA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
-&lt;p&gt;By moving the two weighted modules in polar coordinates in a two-dimensional plane, Transcalibur changes its own moment of inertia.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;/img/transform.gif&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h1 id=&#34;computational-perception-model&#34;&gt;Computational Perception Model&lt;/h1&gt;
-&lt;p&gt;In order to generate real sensations with various objects in the virtual environment, it is necessary to know the relationship between the &amp;ldquo;position of the weight&amp;rdquo; and the &amp;ldquo;shape that humans actually perceive&amp;rdquo;.
-However, this relationship has not been established as a theory.&lt;/p&gt;
-&lt;p&gt;Therefore, we collected a large amount of paired data of &amp;ldquo;actual human shape perception&amp;rdquo; for Transcalibur&amp;rsquo;s &amp;ldquo;weight position&amp;rdquo; and formulated a mathematical model of human shape perception by performing multiple regression analysis.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;/img/approach.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;h1 id=&#34;award&#34;&gt;Award&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Honorable Mention&lt;/strong&gt; at CHI2019&lt;/p&gt;
-&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://cgworld.jp/feature/201810-thermal-03.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;font color=&#34;blue&#34;&gt;『ブルーサーマル』的VR超初心者入門漫画 その3＞＞「で、結局のところVRの正体ってなんですか？」&lt;/font&gt;&lt;/a&gt; CGWORLD.jp 2018.10&lt;/p&gt;
 </description>
     </item>
     
