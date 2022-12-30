@@ -19,7 +19,7 @@ authors:
 # - "Equal contribution"
 
 date: "2021-03-10T15:44:23+09:00"
-doi: ""
+doi: "10.1109/VR50410.2021.00021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-10T15:44:23+09:00"

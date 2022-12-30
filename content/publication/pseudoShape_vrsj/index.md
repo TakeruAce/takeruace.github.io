@@ -29,7 +29,7 @@ publishDate: "2019-09-10T15:44:23+09:00"
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *第24回バーチャルリアリティ学会大会*
+publication: In *第24回バーチャルリアリティ学会大会 <b style="font-style:normal"> | <font color="C22F19">Young Researcher's Award</font></b>*
 # publication_short: In *ICW*
 
 abstract: 

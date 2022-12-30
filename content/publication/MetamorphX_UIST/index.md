@@ -12,10 +12,10 @@ authors:
 # Author notes (optional)
 
 date: "2022-10-01T15:44:23+09:00"
-doi: ""
+doi: "https://doi.org/10.1145/3526113.3545650"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-10-01T15:44:23+09:00"
+publishDate: "2022-10-30T15:44:23+09:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,7 +24,8 @@ publishDate: "2022-10-01T15:44:23+09:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 35th Annual ACM Symposium on User Interface Software and Technology (UIST'22)*
+publication: In *The 35th Annual ACM Symposium on User Interface Software and Technology (UIST'22) <b style="font-style:normal"> | <font color="C22F19">  Best Demo Honorable Mentions Award</font></b>*
+
 # publication_short: In *ICW*
 
 abstract: 

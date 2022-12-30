@@ -30,7 +30,7 @@ publishDate: "2019-05-10T15:44:23+09:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*
+publication: In *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems <b style="font-style:normal"> | <font color="C22F19">  Best Paper Honorable Mentions Award</font></b>*
 # publication_short: In *ICW*
 
 abstract: 
