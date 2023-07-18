@@ -33,6 +33,46 @@
     </item>
     
     <item>
+      <title>SomatoShift: A Wearable Haptic Display for Somatomotor Reconfiguration via Modifying Acceleration of Body Movement</title>
+      <link>/publication/somatoshift/</link>
+      <pubDate>Fri, 04 Aug 2023 15:44:23 +0900</pubDate>
+      <guid>/publication/somatoshift/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SomatoShift</title>
+      <link>/project/somatoshift/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/project/somatoshift/</guid>
+      <description>&lt;h1 id=&#34;concept&#34;&gt;Concept&lt;/h1&gt;
+&lt;p&gt;Advancements in haptic technology have enabled the expression of haptic experiences in virtual reality, such as the sensation of touching an object or holding a tool.
+Haptic technologies have found wide use in simulating interactions between humans and the physical world.
+Furthermore, ongoing research is exploring ways to allow individuals to experience bodily sensations other than their own.
+Virtual reality (VR) technology has facilitated the creation of avatars, visual representations that can embody multiple versions of oneself.
+By modifying not only an avatar&amp;rsquo;s appearance but also its proprioceptive sensations — the internal bodily feelings — it becomes feasible to generate the impression of inhabiting a completely new body.
+The goal of this study is to modify participants&amp;rsquo; proprioceptive perception of their own bodies by appropriately intervening in their movements using a force feedback device.
+Our aim is to create an experience that goes beyond the physical limitations of the body, which is one of the many constraints humans.
+We believe this approach offers individuals an opportunity to liberate themselves from their physical bodily limitations.&lt;/p&gt;
+&lt;h1 id=&#34;somatomotor-reconfiguration&#34;&gt;SomatoMotor Reconfiguration&lt;/h1&gt;
+&lt;p&gt;Our system intervenes in a user&amp;rsquo;s movement at strategic moments, giving rise to the sensation that the physical characteristics of their bodies have a change, as opposed to experiencing an external force being applied.
+We call this change in the relationship between somatosensory and motor sensations as somatomotor reconfiguration.
+To achieve this, we utilized impedance control, which modifies the static properties of an object as force information.
+Our previous study has shown that this can modify environmental properties.
+Similarly, we hypothesized that attaching a wearable force feedback device and providing force feedback in conjunction with movement could alter their joint motion, resulting in a change in body perception.&lt;/p&gt;
+&lt;!-- # Video --&gt;
+&lt;!-- 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1s3kmnNwxZ4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
+&lt;p&gt;Light as a Feather: An Altered Human Somatic Experience
+&lt;a href=&#34;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&lt;/a&gt;&lt;/p&gt;
+&lt;!-- # Hardware  --&gt;</description>
+    </item>
+    
+    <item>
       <title>MetamorphX: An Ungrounded 3-DoF Moment Display that Changes its Physical Properties through Rotational Impedance Control</title>
       <link>/publication/metamorphx_uist/</link>
       <pubDate>Sat, 01 Oct 2022 15:44:23 +0900</pubDate>
