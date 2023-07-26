@@ -59,13 +59,69 @@ We believe this approach offers individuals an opportunity to liberate themselve
 We call this change in the relationship between somatosensory and motor sensations as somatomotor reconfiguration.
 To achieve this, we utilized impedance control, which modifies the static properties of an object as force information.
 Our previous study has shown that this can modify environmental properties.
-Similarly, we hypothesized that attaching a wearable force feedback device and providing force feedback in conjunction with movement could alter their joint motion, resulting in a change in body perception.&lt;/p&gt;
-&lt;!-- # Video --&gt;
-&lt;!-- 
+Similarly, we hypothesized that attaching a wearable force feedback device and providing force feedback in conjunction with movement could alter their joint motion, resulting in a change in body perception.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;&#34; srcset=&#34;
+               /media/img/somatoshift/heavy_light_hu53b60f0e29895bea53980f41291b91da_308968_a4c36f0d88ed12090ee9bf86e90c6bab.png 400w,
+               /media/img/somatoshift/heavy_light_hu53b60f0e29895bea53980f41291b91da_308968_dfc05d85a888724470cd33ed12559a1d.png 760w,
+               /media/img/somatoshift/heavy_light_hu53b60f0e29895bea53980f41291b91da_308968_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;/media/img/somatoshift/heavy_light_hu53b60f0e29895bea53980f41291b91da_308968_a4c36f0d88ed12090ee9bf86e90c6bab.png&#34;
+               width=&#34;760&#34;
+               height=&#34;328&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hardware&#34;&gt;Hardware&lt;/h1&gt;
+&lt;p&gt;We have developed a wearable hardware prototype equipped with control moment gyroscopes (CMG), which produce torque from a spinning flywheel to deliver immediate force feedback in response to human movement.
+The mechanism and specifications of the device are shown in below figure.
+The weight of the wearable device was a critical consideration in its design, and following several prototype iterations, the final weight was brought down to 350g.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;
+        &lt;img alt=&#34;&#34; srcset=&#34;
+               /media/img/somatoshift/device_config_hu1b8d7a9f44722a49472318c48212ecaa_151532_eb3c7bb7bdc40af84201b94bc396df93.jpg 400w,
+               /media/img/somatoshift/device_config_hu1b8d7a9f44722a49472318c48212ecaa_151532_c23607e48242544ac4cdacfd45d2d877.jpg 760w,
+               /media/img/somatoshift/device_config_hu1b8d7a9f44722a49472318c48212ecaa_151532_1200x1200_fit_q75_lanczos.jpg 1200w&#34;
+               src=&#34;/media/img/somatoshift/device_config_hu1b8d7a9f44722a49472318c48212ecaa_151532_eb3c7bb7bdc40af84201b94bc396df93.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;427&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h1 id=&#34;video&#34;&gt;Video&lt;/h1&gt;
+
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/1s3kmnNwxZ4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Ny-hJQ9BEaU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
- --&gt;
+
 &lt;h1 id=&#34;media&#34;&gt;Media&lt;/h1&gt;
 &lt;p&gt;Light as a Feather: An Altered Human Somatic Experience
 &lt;a href=&#34;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.siggraph.org/2023/06/light-as-a-feather-an-altered-human-somatic-experience.html/&lt;/a&gt;&lt;/p&gt;

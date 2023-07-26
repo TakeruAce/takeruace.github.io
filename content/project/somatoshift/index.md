@@ -35,12 +35,16 @@ We call this change in the relationship between somatosensory and motor sensatio
 To achieve this, we utilized impedance control, which modifies the static properties of an object as force information. 
 Our previous study has shown that this can modify environmental properties.
 Similarly, we hypothesized that attaching a wearable force feedback device and providing force feedback in conjunction with movement could alter their joint motion, resulting in a change in body perception.
+{{<figure src="/img/somatoshift/heavy_light.png">}} 
 
+# Hardware
+We have developed a wearable hardware prototype equipped with control moment gyroscopes (CMG), which produce torque from a spinning flywheel to deliver immediate force feedback in response to human movement. 
+The mechanism and specifications of the device are shown in below figure. 
+The weight of the wearable device was a critical consideration in its design, and following several prototype iterations, the final weight was brought down to 350g.
+{{<figure src="/img/somatoshift/device_config.jpg">}} 
 
-<!-- # Video -->
-
-
-<!-- {{<youtube 1s3kmnNwxZ4>}} -->
+# Video
+{{<youtube Ny-hJQ9BEaU>}}
 
 
 # Media

@@ -24,7 +24,7 @@ publishDate: "2022-08-30T15:44:23+09:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In ACM SIGGRAPH 2023 Emerging Technologies (SIGGRAPH ‘23). Association for Computing Machinery, New York, NY, USA
+publication: In ACM SIGGRAPH 2023 Emerging Technologies (SIGGRAPH ‘23)
 
 # publication_short: In *ICW*
 
