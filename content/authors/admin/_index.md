@@ -5,7 +5,7 @@ title: Takeru Hashimoto
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. student
+role: Project Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,7 +18,8 @@ bio: My research interests include haptics, somatics, robotics and virtual reali
 # Interests to show in About widget
 interests:
 - Haptic Display
-- Body Schema
+- Human Augumentation
+- Embodiment
 - Computational Perception
 
 # Education to show in About widget
@@ -26,7 +27,7 @@ education:
   courses:
   - course: Ph.D student at Cyber Interface Lab
     institution: The University of Tokyo
-    year: 
+    year: 2023
   - course: Master in Information Science and Technology
     institution: The University of Tokyo
     year: 2020
@@ -72,8 +73,8 @@ email: ""
 highlight_name: true
 ---
 
-Takeru Hashimoto (japanese name: 橋本 健) is currently a Ph.D student at the Cyber Interface Laboratory in The University of Tokyo in Japan. He is studying computer science, human computer interaction and robotics in the graduate school of The University of Tokyo. He received his master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2020 and 2018 respectively. 
+Takeru Hashimoto (japanese name: 橋本 健) is currently a project assistant professor at the Cyber Interface Laboratory in The University of Tokyo in Japan. He is studying computer science, human computer interaction and robotics in the graduate school of The University of Tokyo. He received his Ph.D. in information science and technology, master's degree in information science and technology and bachelor's degree in mechano-informatics engineering from The University of Tokyo in 2023, 2020 and 2018 respectively.
 His awards include the Young Researcher's Award from the virtual reality society of Japan and the Honorable Mention Award in SIGCHI.
 His current research area is Virtual / Augmented Reality of haptics and Human-Augmentation.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Takeru_HASHIMOTO.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my resumé {{< staticref "media/CV_Takeru_HASHIMOTO.pdf" "newtab" >}}here{{< /staticref >}}.

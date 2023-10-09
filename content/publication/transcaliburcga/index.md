@@ -1,31 +1,36 @@
 ---
-title: "SomatoShift: A Wearable Haptic Display for Somatomotor Reconfiguration via Modifying Acceleration of Body Movement"
+title: "Presenting Morphing Shape Illusion: Enhanced Sense of Morphing Virtual Object With Weight Shifting VR Controller by Computational Perception Model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Jotaro Shigeyama
 - admin
 - Shigeo Yoshida
 - Takuji Narumi
+- Tomohiro Tanikawa
+- Michitaka Hirose
 
 # Author notes (optional)
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
-date: "2023-08-04T15:44:23+09:00"
+date: "2023-06-21T15:44:23+09:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-08-30T15:44:23+09:00"
+publishDate: "2022-06-21T15:44:23+09:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM SIGGRAPH 2023 Emerging Technologies (SIGGRAPH ‘23)*
-
+publication: in *IEEE Computer Graphics and Applications*
 # publication_short: In *ICW*
 
 abstract: 
@@ -34,7 +39,7 @@ abstract:
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -63,7 +68,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- somatoshift
+- transcalibur
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
