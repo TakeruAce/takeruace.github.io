@@ -4,18 +4,16 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 theme: custom
 day_night: false
-font: custom_theme
+font: futura
 font_size: L
 
 # SEO
-
 site_type: Person
 local_business_type: 'Haptics'
 org_name: 'The University of Tokyo'
-description: ''
+description: 'Takeru Hashimoto is an haptics reseacher at the University of Tokyo'
 twitter: 'AceZeami'
 
 # Contact (edit or remove options as required)

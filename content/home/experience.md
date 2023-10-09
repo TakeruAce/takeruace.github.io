@@ -28,8 +28,8 @@ experience:
     company_logo: 
     location: Tokyo
     date_start: '2022-01-17'
-    date_end: ''
-    description: Research about human machine integration at [Superception Lab ](https://www.sonycsl.co.jp/tokyo/3918/)
+    date_end: '2023-09-30'
+    description: Research about human machine integration at [Cybernetic Humanity Lab ](https://www.sonycsl.co.jp/tokyo/3918/)
 
 
   - title: Prototype Engineer
@@ -44,7 +44,7 @@ experience:
   - title: xR Engineer Intern
     company: GREE, Inc
     company_url: 'http://gree.jp/'
-    company_logo: 
+    company_logo:
     location: Tokyo
     date_start: '2018-10-01'
     date_end: '2018-12-21'

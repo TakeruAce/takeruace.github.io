@@ -1,5 +1,5 @@
 # Theme metadata
-name = "custom"
+name = 'custom'
 
 # Is theme light or dark?
 light = true
@@ -8,11 +8,11 @@ light = true
 primary = "#969696"
 
 # Menu
-menu_primary = "#C22F19"
-menu_text = "#D7DEDD"
+menu_primary = "#186F65"
+menu_text = "#B5CB99"
 menu_text_active = "#000000"
-menu_title = "#2b2b2b"
+menu_title = "#000000"
 
 # Home sections
-home_section_odd = "#FEFEFE"
-home_section_even = "#D7DEDD"
+home_section_odd = "#FDFEFD"
+home_section_even = "#FEFEFE"

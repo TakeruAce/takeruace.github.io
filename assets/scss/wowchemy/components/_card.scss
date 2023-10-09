@@ -5,13 +5,13 @@
     top:			0;
     left:			0;
     opacity:		0;	/* マスクを表示しない */
-    background-color:	rgba(0,0,0,0.7);	/* マスクは半透明 */
+    background-color:	#00000e;	/* マスクは半透明 */
     -webkit-transition:	all 0.2s ease;
     transition:		all 0.2s ease;
   }
 
   .card .mask:hover {
-    opacity: 1;
+    opacity: 0.9;
   }
 
   .card .hover-text {
@@ -24,22 +24,24 @@
 
   .card .project-name {
     color: #ddd;
-    font-family: '{{ .Get "heading_font" }}';
-    font-size: 1rem;
-    font-weight: 900;
+    font-size: 2rem;
+    font-weight: 700;
+    font-style: italic;
+    line-height: 120%;
+    // text-align: center;
     position: absolute;
     width:80%;
-    top:15%;
-    left:5%;
+    top:10%;
+    left: 8%;
   }
 
   .card .project-description {
     color: #ddd;
     position: absolute;
-    font-size : 0.5rem;
+    font-size : 0.8rem;
     width: 80%;
     bottom:10%;
-    left:5%;
+    left:8%;
   }
   .card .card-image.hover-overlay::before {
     display: block;
@@ -48,14 +50,14 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background: #fff;
+    // background: rgba(0, 0, 0, 0);
     content: ' ';
     opacity: 0;
     transition: all 0.2s ease-out;
   }
   
   .card-simple {
-    background: #fff;
+    background: #000000;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
     border: 1px solid rgba(0, 0, 0, 0.09);
     border-radius: 3px;
@@ -87,15 +89,15 @@
     margin-bottom: 1.5rem;
     overflow: hidden;
     text-overflow: ellipsis;
-    background: #fff;
-    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0);
     transition: all 0.2s ease-out;
   }
   
   .card .card-image {
     display: block;
     position: relative;
-    min-height: 100px;
+    min-height: 10px;
   }
   
   .card .section-subheading {
