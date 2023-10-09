@@ -25,11 +25,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D student at Cyber Interface Lab
-    institution: The University of Tokyo
+  - course: Ph.D. in Information Science and Technology
+    institution: Graduate School of Information Science and Technology, The University of Tokyo
     year: 2023
   - course: Master in Information Science and Technology
-    institution: The University of Tokyo
+    institution: Graduate School of Information Science and Technology, The University of Tokyo
     year: 2020
   - course: BSc in Mechano-informatics
     institution: The University of Tokyo
